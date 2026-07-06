@@ -37,14 +37,12 @@ HafizhChecker is a personal utility project designed for checking and validation
    ```bash
    python main.py
    ```
-   atau jika menggunakan Node.js:
-   ```bash
-   node index.js
-   ```
 
 ## Usage
 
-Provide usage instructions here.
+```bash
+python main.py
+```
 
 ## License
 
