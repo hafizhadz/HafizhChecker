@@ -1,2 +1,1 @@
-dick:gay123
-anus@anus.net:anus123
+username:password
