@@ -1,42 +1,44 @@
-# Xenon Checker
+# HafizhChecker
 
-Xenon Checker is open sourced Roblox account checker that is free to use and easy to use. It is not bypassing verification but most likely it will bypass captcha verification so it can check account for you ASAP.
+A simple checker/tool project by MhafizhA.
 
-## Features
+## Description
 
-Current features of Xenon Checker!
+HafizhChecker is a personal utility project designed for checking and validation purposes.
 
-```bash
-✔️ Simple combo file usage
-✔️ Login with Email
-✔️ Login with Username
-✔️ Bypassing captcha verification (sometimes)
-```
-## Installation
+## Cara Pakai di Termux
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all modules that will be needed. You can run these commands in your cmd/terminal.
+1. **Install Termux** dari F-Droid atau Google Play.
 
-```bash
-pip install -r requirements
-```
-or
-```bash
-pip install colorama
-pip install selenium
-```
+2. **Update package** (pertama kali saja):
+   ```bash
+   pkg update && pkg upgrade -y
+   ```
+
+3. **Install Git dan Python** (jika belum ada):
+   ```bash
+   pkg install git python -y
+   ```
+
+4. **Clone repositori ini:**
+   ```bash
+   git clone https://github.com/MhafizhA/HafizhChecker
+   cd HafizhChecker
+   ```
+
+5. **Jalankan project** (sesuaikan perintah dengan file utama yang ada):
+   ```bash
+   python main.py
+   ```
+   atau jika menggunakan Node.js:
+   ```bash
+   node index.js
+   ```
 
 ## Usage
 
-To run script all you have to do is just run this command in your cmd/terminal
+Provide usage instructions here.
 
-```python
-python main.py
-```
+## License
 
-## Supported OS
-
-This script works both for Linux and Windows except you will have to download chromedriver for linux from their official website https://chromedriver.storage.googleapis.com/index.html?path=103.0.5060.53/ or find tutorial on YouTube!
-
-## Note
-
-Script is made only for educational purpose and was not created to harm anyone or anything!
+This project is for personal use.
