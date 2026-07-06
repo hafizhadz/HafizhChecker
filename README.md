@@ -38,6 +38,28 @@ HafizhChecker is a personal utility project designed for checking and validation
    python main.py
    ```
 
+### Edit `combo.txt` di Termux
+
+**Pakai nano** (recommended):
+```bash
+pkg install nano -y
+nano combo.txt
+```
+Simpan: `Ctrl+X`, lalu `Y`, lalu `Enter`.
+
+**Pakai echo** (tambah isi):
+```bash
+echo "email:password" >> combo.txt
+```
+
+**Pakai cat** (timpa isi file):
+```bash
+cat > combo.txt
+email:password
+username:password
+# Ctrl+D untuk selesai
+```
+
 ## Usage
 
 ```bash
