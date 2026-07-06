@@ -6,6 +6,13 @@ A simple checker/tool project by MhafizhA.
 
 HafizhChecker is a personal utility project designed for checking and validation purposes.
 
+## Features
+
+- ✔️ Simple combo file usage
+- ✔️ Login with Email
+- ✔️ Login with Username
+- ✔️ Bypassing captcha verification (sometimes)
+
 ## Cara Pakai di Termux
 
 1. **Install Termux** dari F-Droid atau Google Play.
