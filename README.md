@@ -29,7 +29,7 @@ HafizhChecker is a personal utility project designed for checking and validation
 
 4. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/MhafizhA/HafizhChecker
+   git clone https://github.com/hafizhadz/HafizhChecker.git
    cd HafizhChecker
    ```
 
